@@ -1,7 +1,7 @@
 # Resizable Panel Group
 
 [![pub package](https://img.shields.io/pub/v/resizable_panel_group.svg)](https://pub.dev/packages/resizable_panel_group)
-[![license](https://img.shields.io/github/license/karloows/resizable_panel_group)](LICENSE)
+[![license](https://img.shields.io/github/license/karloows/resizable-panel-group)](LICENSE)
 
 Need a split view in Flutter without dragging in a heavy layout system?
 
@@ -180,7 +180,7 @@ Pull requests are welcome. If you change public behavior or the documented API, 
 
 ## Issues
 
-Bug reports and feature requests are best opened in the [GitHub issue tracker](https://github.com/karloows/resizable_panel_group/issues).
+Bug reports and feature requests are best opened in the [GitHub issue tracker](https://github.com/karloows/resizable-panel-group/issues).
 
 ## License
 
@@ -188,6 +188,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contributors
 
-<a href="https://github.com/karloows/resizable_panel_group/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=karloows/resizable_panel_group" />
+<a href="https://github.com/karloows/resizable-panel-group/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=karloows/resizable-panel-group" />
 </a>

@@ -1,11 +1,10 @@
 # Contributing
 
-Thanks for considering a contribution to `resizable_panel_group`.
+Thanks for considering a contribution to `resizable-panel-group`.
 
 ## Before you start
 
-Read [AGENTS.md](AGENTS.md), [CLAUDE.md](CLAUDE.md), and [PLAN.md](PLAN.md).
-They define the repo workflow, package constraints, and intended product shape.
+Read [PLAN.md](PLAN.md) for the intended product shape.
 
 ## Setup
 
