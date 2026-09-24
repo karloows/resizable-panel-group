@@ -1,6 +1,6 @@
-# resizable_panel_group example
+# resizable-panel-group example
 
-Runnable example app for `resizable_panel_group`.
+Runnable example app for `resizable-panel-group`.
 
 ## Run
 

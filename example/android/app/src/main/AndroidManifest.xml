@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="resizable_panel_group_example"
+        android:label="resizable-panel-group_example"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

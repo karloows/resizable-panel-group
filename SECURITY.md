@@ -2,7 +2,7 @@
 
 ## Scope
 
-`resizable_panel_group` is a Flutter UI package. It does not provide network,
+`resizable-panel-group` is a Flutter UI package. It does not provide network,
 storage, authentication, or secret-management features.
 
 Primary risks are likely to be layout, gesture, focus, keyboard, or semantics
